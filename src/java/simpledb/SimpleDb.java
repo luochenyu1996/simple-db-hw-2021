@@ -9,6 +9,7 @@ import simpledb.transaction.TransactionId;
 import java.io.*;
 
 public class SimpleDb {
+    //基本类
     public static void main (String[] args)
             throws DbException, TransactionAbortedException {
         // convert a file
